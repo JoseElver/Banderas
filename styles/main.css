@@ -21,3 +21,21 @@
     margin: 1px;
     display: inline-block;
   }
+  .page main article section{
+    background-color: yellow;
+    width: 300px;
+    height: 70px;
+ 
+  }
+  .page main article div{
+    background-color:blue;
+    width: 300px;
+    height: 70px;
+   
+  }
+  .page main article nav{
+    background-color: red;
+    width: 300px;
+    height: 70px;
+  
+  }
