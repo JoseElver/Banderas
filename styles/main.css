@@ -3,3 +3,21 @@
   margin: 0;
   padding: 0;
 }
+.page main{
+    background-color:white;
+    width: 700px;
+    height: 220px;
+    border: solid;
+    border-color: silver;
+    padding: 1px;
+    margin: 0px 0px 10px 350px;
+  }
+  .page main article{
+    background-color:white;
+    width: 340px;
+    height: 210px;
+    border: solid;
+    border-color: silver;
+    margin: 1px;
+    display: inline-block;
+  }
