@@ -5,7 +5,7 @@
 }
 .page2 main{
     background-color:white;
-    width: 700px;
+    width: 600px;
     height: 220px;
     border: solid;
     border-color: silver;
@@ -13,11 +13,38 @@
     margin: 0px 0px 10px 350px;
   }
   .page2 main article{
-    background-color:white;
-    width: 340px;
+    background-color:lightgray;
+    width: 290px;
     height: 210px;
     border: solid;
     border-color: silver;
     margin: 1px;
     display: inline-block;
+    vertical-align: top;
+  }
+  .page2 main article section{
+    background-color: yellow;
+    width: 270px;
+    height: 70px;
+    margin: 10px 120px 0px 10px;
+ 
+  }
+  .page2 main article div{
+    background-color:blue;
+    width: 270px;
+    height: 40px;
+    margin: 0px 120px 0px 10px;
+   
+  }
+  .page2 main article nav{
+    background-color: red;
+    width: 270px;
+    height: 40px;
+    margin: 0px 120px 0px 10px;
+  
+  }
+  .page2 main article h2{
+    text-align: center;
+    margin: 10px;
+  
   }
