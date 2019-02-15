@@ -96,26 +96,28 @@
   }
   .page main article h5{
     background-color: white;
-    width: 130px;
-    height: 75px;
+    width: 135px;
+    height: 80px;
     display: inline-block;
     vertical-align: top;
-    margin: 0px;
+    margin: -2px;
   
   }
   .page main article h6{
     background-color:red;
-    width: 130px;
-    height: 75px;
+    width: 135px;
+    height: 80px;
     display: inline-block;
     vertical-align: top;
+    margin: -2px; 
   }
   .page main article strong{
     background-color:blue;
-    width: 130px;
-    height: 75px;
+    width: 135px;
+    height: 80px;
     display: inline-block;
     vertical-align: top;  
+    margin: -2px; 
 
   }
   .page main article h5 img{
@@ -123,4 +125,35 @@
     height: 50px;
     margin: 10px 0px 0px 40px;
    
+  }
+  .page main article p{
+    background-color:rgb(18, 18, 161);
+    width: 270px;
+    height: 30px;
+   
+  }
+  .page main article ul{
+    background-color:white;
+    width: 270px;
+    height: 20px;
+   
+  }
+  .page main article h3{
+    background-color:rgb(201, 24, 24);
+    width: 270px;
+    height: 50px;
+    padding: 5px 0px 0px 0px;
+   
+  }
+  .page main article h3 section{
+    background-color:white;
+    width: 35px;
+    height: 45px;
+    border-radius: 50%;
+    margin: 0px 0px 0px 50px;
+  }
+  .page main article h3 section img{
+    width: 35px;
+    height: 35px;
+    margin: 3px 0px 0px 0px;
   }
