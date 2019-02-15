@@ -104,3 +104,25 @@
     margin: 0px 120px 0px 10px;
   
   }
+  .page main article ol{
+    background-color:white;
+    width: 270px;
+    height: 150px;
+    margin: 10px 120px 0px 10px;
+  
+  }
+ 
+  .page main article ol nav{
+    background-color:rgb(15, 47, 228);
+    width: 50px;
+    height: 50px;
+    margin: 0px 120px 0px 70px;
+  
+  }
+  .page main article ol section{
+    background-color:rgb(15, 47, 228);
+    width: 270px;
+    height: 50px;
+    margin: 0px 0px 0px 0px;
+  
+  }
