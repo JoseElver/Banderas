@@ -14,11 +14,12 @@
   }
   .page2 main article{
     background-color:lightgray;
-    width: 290px;
-    height: 210px;
+    width: 270px;
+    height: 190px;
     border: solid;
     border-color: silver;
     margin: 1px;
+    padding: 10px;
     display: inline-block;
     vertical-align: top;
   }
@@ -26,21 +27,21 @@
     background-color: yellow;
     width: 270px;
     height: 70px;
-    margin: 10px 120px 0px 10px;
+    
  
   }
   .page2 main article div{
     background-color:blue;
     width: 270px;
     height: 40px;
-    margin: 0px 120px 0px 10px;
+    
    
   }
   .page2 main article nav{
     background-color: red;
     width: 270px;
     height: 40px;
-    margin: 0px 120px 0px 10px;
+    
   
   }
   .page2 main article h2{
@@ -53,7 +54,7 @@
     width: 270px;
     height: 50px;
     list-style: none;
-    margin: 10px 120px 0px 10px;
+    
  
   }
   .page2 main article footer{
@@ -61,7 +62,7 @@
     width: 270px;
     height: 50px;
     list-style: none;
-    margin: 0px 120px 0px 10px;
+    
    
   }
   .page2 main article footer img{
@@ -74,11 +75,65 @@
     background-color: skyblue;
     width: 270px;
     height: 50px;
-    margin: 0px 120px 0px 10px;
+    list-style: none;
+    
   
   }
   .page2 main article p{
-    text-align: center;
-    margin: 10px;
-  
-  }
+      background-color:green;
+      width: 90px;
+      height: 150px;
+      display: inline-block;
+      margin: -2px;
+    
+    }
+    .page2 main article h3{
+      background-color: white;
+      width: 90px;
+      height: 150px;
+      display: inline-block;
+      vertical-align: top;
+      margin: -2px;
+    
+    }
+    .page2 main article h3 img{
+      width: 50px;
+      height: 50px;
+      margin: 0px 0px 0px 110px;
+     
+    
+    }
+    .page2 main article h4{
+      background-color: red;
+      width: 90px;
+      height: 150px;
+      display: inline-block;
+      vertical-align: top;
+      margin: -2px;
+    }
+
+
+
+
+
+
+
+    .page2 main article ol{
+      background-color:red;
+      width: 70px;
+      height: 150px;
+      display: inline-block;
+      margin: -2px;
+    
+    }
+    .page2 main article h5{
+      background-color: white;
+      width: 130px;
+      height: 150px;
+      display: inline-block;
+      vertical-align: top;
+      margin: -2px;
+    
+    }
+    .page2 main
+    
