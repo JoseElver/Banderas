@@ -14,11 +14,12 @@
   }
   .page main article{
     background-color:lightgray;
-    width: 290px;
-    height: 210px;
+    width: 270px;
+    height: 190px;
     border: solid;
     border-color: silver;
     margin: 1px;
+    padding: 10px;
     display: inline-block;
     vertical-align: top;
   }
@@ -26,22 +27,17 @@
     background-color: white;
     width: 270px;
     height: 50px;
-    margin: 10px 120px 0px 10px;
- 
   }
   .page main article div{
     background-color:blue;
     width: 270px;
     height: 50px;
-    margin: 0px 120px 0px 10px;
    
   }
   .page main article nav{
     background-color: red;
     width: 270px;
     height: 50px;
-    margin: 0px 120px 0px 10px;
-  
   }
   .page main article h2{
     text-align: center;
@@ -52,16 +48,12 @@
     width: 270px;
     height: 40px;
     list-style: none;
-    margin: 10px 120px 0px 10px;
-  
   }
   .page main article footer{
     background-color: rgb(252, 227, 1);
     width: 270px;
     height: 70px;
     list-style: none;
-    margin: 0px 120px 0px 10px;
-  
   }
   .page main article footer img{
     width: 50px;
@@ -69,29 +61,7 @@
     margin: 10px 0px 0px 50px;
   
   }
-  .page main article ul{
-    background-color: rgb(196, 14, 14);
-    width: 270px;
-    height: 40px;
-    list-style: none;
-    margin: 0px 120px 0px 10px;
-  
-  }
-  .page main article p{
-    background-color:red;
-    width: 270px;
-    height: 50px;
-    margin: 10px 120px 0px 10px;
-  
-  }
-  .page main article h3{
-    background-color: white;
-    width: 270px;
-    height: 50px;
-    margin: 0px 120px 0px 10px;
-  
-  }
-  .page main article h3 img{
+  .page main article section img{
     width: 50px;
     height: 50px;
     margin: 0px 0px 0px 110px;
@@ -101,14 +71,12 @@
     background-color: black;
     width: 270px;
     height: 50px;
-    margin: 0px 120px 0px 10px;
   
   }
   .page main article ol{
     background-color:white;
     width: 270px;
     height: 150px;
-    margin: 10px 120px 0px 10px;
   
   }
  
@@ -125,4 +93,34 @@
     height: 50px;
     margin: 0px 0px 0px 0px;
   
+  }
+  .page main article h5{
+    background-color: white;
+    width: 130px;
+    height: 75px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+  
+  }
+  .page main article h6{
+    background-color:red;
+    width: 130px;
+    height: 75px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .page main article strong{
+    background-color:blue;
+    width: 130px;
+    height: 75px;
+    display: inline-block;
+    vertical-align: top;  
+
+  }
+  .page main article h5 img{
+    width: 50px;
+    height: 50px;
+    margin: 10px 0px 0px 40px;
+   
   }
